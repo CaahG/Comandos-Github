@@ -1,7 +1,7 @@
 # Comandos-Github
 Comandos Básicos do Git
 
-##🛠️ Comandos Básicos do Git Este guia contém os comandos mais essenciais para trabalhar com Git e gerenciar seu repositório de forma eficiente.##
+🛠️ Comandos Básicos do Git Este guia contém os comandos mais essenciais para trabalhar com Git e gerenciar seu repositório de forma eficiente.
 
 GIT ADD 🚀 Comando: git add ou git add . Como funciona: Adiciona alterações de arquivos (novos ou modificados) à área de preparação (staging area), para que sejam incluídas no próximo commit. Importância: Sem adicionar os arquivos à área de staging, eles não serão incluídos no commit.
 
